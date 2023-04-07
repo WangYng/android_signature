@@ -2,7 +2,6 @@
     package="io.github.wangyng.android_signature_example">
    <application
         android:label="android_signature_example"
-        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,6 +1,6 @@
 name: android_signature
 description: Android signature provider for Flutter.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/WangYng
 repository: https://github.com/WangYng/android_signature
 

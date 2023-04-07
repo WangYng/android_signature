@@ -8,7 +8,7 @@ Android signature provider for Flutter.
 
 ```yaml
 dependencies:
-  android_signature: ^0.0.1
+  android_signature: ^0.0.2
 ```
 
 2. Install it
